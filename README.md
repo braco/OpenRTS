@@ -7,7 +7,7 @@ OpenRTS intend to support any kind of common real-time strategy gameplay, design
 
 The project also wants to be a pool of RTS ressources, giving access to a large and free-to-use set of maps, models, sounds, armies data and gameplays.
 
-But OpenRTS is under developpement. There is a long way to go and a huge and growing TODO list. We will be glad to receive any of your contributions !
+But OpenRTS is under development. There is a long way to go and a huge and growing TODO list. We will be glad to receive any of your contributions !
 
 Watch <a href="https://www.youtube.com/watch?v=XjYJWFQFIVE" target="_blank">the engine in action !</a>
 
